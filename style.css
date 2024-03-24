@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-color: #152238;
+    color: white;
+}
+
+span {
+    color: #34eb95;
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #34eb95;
+    color: white;
+    font-weight: bold;
+}
+
+#container {
+    padding: 10px;
+}
